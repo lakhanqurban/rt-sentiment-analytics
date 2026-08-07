@@ -1,0 +1,5 @@
+# Dependencies installed inside the Spark master/worker images at runtime.
+# Spark jobs are submitted via `spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.3.0`.
+pyspark==3.3.0
+textblob==0.17.1
+nltk==3.8.1
