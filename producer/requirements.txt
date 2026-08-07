@@ -1,0 +1,2 @@
+kafka-python==2.2.0
+tweepy==4.14.0
